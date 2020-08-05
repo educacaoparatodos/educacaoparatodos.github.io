@@ -1,0 +1,22 @@
+#caixa1{
+        text-align: center;
+       background: url(Imagens/tipo-de-educacao.jpg);  
+       padding: 150px;
+       background-size: cover;
+       background-size: cover;
+
+}
+#Introdução{
+    color: white;
+}
+.defaut{
+    color: white;
+    border-top:solid white 2px ;
+}
+.botao{
+    color: white;
+    border: solid green 2px;
+    padding: 6px;
+    margin: auto;
+    width: 80px;
+}
